@@ -1,0 +1,4 @@
+# Raw dataset downloads — pulled to scratch, never committed
+/economic_index_data/
+*.parquet
+*.arrow
